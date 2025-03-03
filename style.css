@@ -1,0 +1,71 @@
+.obrazky{
+    width: 200px;
+    height: auto;
+}
+body{
+    display: flex;
+    flex-direction: column;
+}
+.hadrosaurus{
+    background-color: grey;
+    width: 250px;
+    height: 300px;
+    justify-content: center;
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 25px;
+}
+.gasosaurus{
+    background-color: grey;
+    width: 250px;
+    height: 300px;
+    justify-content: center;
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 25px;
+}
+.irritator{
+    background-color: grey;
+    width: 250px;
+    height: 300px;
+    justify-content: center;
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 25px;
+}
+.dinosaur{
+    background-color: grey;
+    width: 250px;
+    height: 300px;
+    justify-content: center;
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 25px;
+}
+.kotasauraus{
+    background-color: grey;
+    width: 250px;
+    height: 300px;
+    justify-content: center;
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 25px;
+}
+.container{
+    display: flex;
+    gap: 5px;
+    justify-content: center;
+}
+h1{
+    text-align: center;
+}
